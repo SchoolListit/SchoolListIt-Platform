@@ -1,7 +1,7 @@
 # SchoolListIt
 
 ### Covid-19 has put education at all levels into a tailspin
-Many schools are not going back in a normal fashion this fall, many are using a blended remote/in person model, and some still have not finalized thier plans. Fully in-person attendance may not be sustainable if areas with continued outbreak. Many families are uncomfortable sending thier children into such uncertainty, and are opting out of public school and into homeschooling. 
+Many schools are not going back in a normal fashion this fall, many are using a blended remote/in person model, and some still have not finalized thier plans. Fully in-person attendance may not be sustainable in areas with continued outbreak. Many families are uncomfortable sending thier children into such uncertainty, and are opting out of public school and into homeschooling. 
 
 This creates a particularly tough challenge for many families including 
 - students with fewer choices
@@ -14,21 +14,20 @@ Parents need a solution that helps them oversee and monitor thier students' perf
 
 Teachers need streamlined communications with families.
 
-Students need help staying on track from a wider sphere of support.
+Students need help staying on track with a wider sphere of support.
 
-## SchoolListIt: what is due and when for any school, anywhere no matter how you school
+## SchoolListIt
+### What is due and when for any school, anywhere no matter how you school
 
-**It takes a village**
+I am a working mom and I built SchoolListIt out of necessity. I have two school aged children and a job and a baby. I work from home. The daycare has closed, and fear of the virus prevents me hiring in-home childcare. Even with all this, I still need to help my students stay on track with schoolwork. This is not only my reality. I share this reality with much of America. 
 
-Even in a normal school setting, we cannot ensure fair and equal education without including a student’s extended family and better understanding the challenges at home. In particular, single parent homes rely on a larger circle for help. However, only legal guardians have access to most student information systems. Our parents, friends, and neighbors cannot help if they cannot access what is due for schoolwork and when it is due.
+Teachers rely on so many learning apps, but for a mom with multiple children that quickly compounds exponentially. Each child has multiple teachers with multiple apps and each school has different systems. It quickly becomes turns into chaos. When remote learning began after Covid, I scoured the web for an app that could organize it all for me, but **there just isn't an app for that.**
 
 ### Instead of complaining, I went to work. SchoolListit is the result.
 
-I am a working mom who built this solution out of necessity. I have two school aged children and a job and a baby - and now I have no daycare and no school for my children. I can’t hire a nanny or an in-home tutor willing to work in someone else’s home for fear of contracting or spreading Covid-19. This is not only my reality. I share this reality with much of America. 
-
 Even in normal school life, for most parents, getting enough detail to genuinely help with school means taking off work. When the choice lies between paying the rent and helping with schoolwork, the rent wins every time. 
 
-Teachers rely on so many great learning apps, but for a mom with multiple children that is compounded exponentially. Each child has multiple teachers with multiple apps and different systems. It quickly becomes turns into chaos. When remote learning began after Covid, I scoured the web for an app that could organize the chaos, but **there just isn't an app for that.**
+
 
 **SchoolListIt solves this problem.**
 
@@ -65,7 +64,9 @@ By chooseing to pair React with WordPress, we've set up a toolchain for integrat
 
 
 
+**It takes a village**
 
+Even in a normal school setting, we cannot ensure fair and equal education without including a student’s extended family and better understanding the challenges at home. In particular, single parent homes rely on a larger circle for help. However, only legal guardians have access to most student information systems. Our parents, friends, and neighbors cannot help if they cannot access what is due for schoolwork and when it is due.
 
 
 ## Installation
