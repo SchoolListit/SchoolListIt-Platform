@@ -59,32 +59,32 @@ Google Classroom and the Blackboard suite maintain REST APis, but both would nee
 ### Roadmap of Core Tools
 **This is just the beginning, where can we go from here?**
 
-The principle of this platform is to provide a set of core tools to address the central integrations, and then provide documentation and developer resources so that those core tools can be easily and rapidly extended into specific use cases as needed. 
+The SchoolListIt platform provides a set of **core tools** that address central integrations, and provides documentation and developer resources so that those core tools can be easily and rapidly extended into specific use cases as needed. 
 
-- **SchoolListIt App:** Front end user interface for parents, teachers, and students. 
+- [**SchoolListIt App:**](https://github.com/SchoolListit/SchoolListIt-App) Front end user interface for parents, teachers, and students. 
 (Demo live at SchoolListIt.com)
 
-- **SchoolListIt REST API:** WordPress plugin that does the backend api work and serves data to the front end SchoolListIt Application. Free WordPress Plugin.
+- [**SchoolListIt REST API:**](https://github.com/SchoolListit/SchoolListIt-REST-Plugin) WordPress plugin that does the backend api work and serves data to the front end SchoolListIt Application. Free WordPress Plugin.
 (Plugin live on SchoolListIt.com)
 
-- **SchoolListIt Website:** SchoolListIt.com is the front-end of the WordPress site which runs the backend plugin. It is the marketing site for the platform.
+- [**SchoolListIt Website:**](https://schoolistit.com/) SchoolListIt.com is the front-end of the WordPress site which runs the backend plugin. It is the marketing site for the platform.
 (Live at schoolListIt.com)
 
-- **SchoolListIt AI:** WordPress <=> IBM Watson AI and ML integration.
+- [**SchoolListIt AI:**](https://github.com/SchoolListit/SchoolListIt-AI) WordPress <=> IBM Watson AI and ML integration.
 (In development - see repo)
 
-- **SchoolListIt Live Instruction:** WooCommerce extension for pairing tutors with student and/or student groups. Fork of Charter Boat Bookings Pro with integrated WordPress <=> Zoom integration.
+- [**SchoolListIt Live Instruction:**](https://github.com/SchoolListit/SchoolListIt-Live-Instruction) WooCommerce extension for pairing tutors with student and/or student groups. Fork of Charter Boat Bookings Pro with integrated WordPress <=> Zoom integration.
 (In development - see repo)
 
-- **SchoolListIt Channel Changer:** Wordpress <=> Twilio integration. WordPress Plugin.
+- [**SchoolListIt Channel Changer:**](https://github.com/SchoolListit/SchoolListIt-Channel-Changer) Wordpress <=> Twilio integration. WordPress Plugin.
 Streamlines communication for teachers and parents. 
 (See Repo for details)
 
 - **SchoolListIt App Marketplace:** For clarity, I've included this here, but we will use an existing Woocommerce Premium Extension maintained by Automattic to facilitate this marketplace. We can always customize it to our needs later if neccesary. 
 
-- **SchoolLIstIt Integrations Plugin:** Starting with Google Classroom, it is our plan to build api integration with existing systems so that assignments and due dates can be pulled from API as part of Teacher verification. 
+- [**SchoolLIstIt Integrations:**](https://github.com/SchoolListit/SchoolListIt-Integrations) Starting with Google Classroom, it is our plan to build api integration with existing systems so that assignments and due dates can be pulled from API as part of Teacher verification. 
 
-The strategy to overcome this potential roadblocks to integration is simple - teachers will demand integration - eventually. As user adoption grows, any misinformation posted on SchoolListIt is going to cause a huge headache for teachers and schools. Just as businesses appreciate the opportunity to manage their Google Places profile, teachers will find it very useful to integrate directly with SchoolListIt rather than having parents manually disseminating information throughout the community.
+The strategy to overcome potential roadblocks to integration is simple. As user adoption grows, any misinformation posted on SchoolListIt is going to cause a huge headache for teachers and schools. Just as businesses appreciate the opportunity to manage their Google Places profile, teachers will find it very useful to integrate directly with SchoolListIt rather than having parents manually disseminating information throughout the community.
 
 # The Big Win
 
