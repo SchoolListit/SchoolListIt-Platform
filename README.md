@@ -50,9 +50,7 @@ Pairing React with WordPress, we've set up a toolchain for integrating existing 
 **this is just the beginning, where can we go from here?**
 The principle of this platform is to provide a set of core tools to address the central integrations, and then provide documentation and developer resources so that those core tools can be easily and rapidly extended into specific use cases as needed.  
 
-- **SchoolListIt App:** 
-
-Front end user interface for parents, teachers, and students. 
+- **SchoolListIt App:** Front end user interface for parents, teachers, and students. 
 (Demo live at SchoolListIt.com)
 
 - **SchoolListIt REST API:** WordPress plugin that does the backend api work and serves data to the front end SchoolListIt Application. Free WordPress Plugin.
