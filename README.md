@@ -16,12 +16,14 @@ Teachers need streamlined communications with families.
 
 Students need help staying on track with a wider sphere of support.
 
+Newly homeschooling families need attendance, testing, and transcripts.
+
 ## SchoolListIt
 ### What is due and when for any school, anywhere no matter how you school
 
 I am a working mom and I built SchoolListIt out of necessity. I have two school aged children and a job and a baby. I work from home. The daycare has closed, and fear of the virus prevents me hiring in-home childcare. Even with all this, I still need to help my students stay on track with schoolwork. This is not only my reality. I share this reality with much of America. 
 
-Teachers rely on so many learning apps, but for a mom with multiple children that quickly compounds. Each child has multiple teachers with multiple apps and each school has different systems. It quickly becomes turns into chaos. When remote learning began after Covid, I scoured the web for an app that could organize it all for me, but **there just isn't an app for that.**
+Teachers rely on so many learning apps, but for a mom with multiple children that quickly compounds. Each child has multiple teachers with multiple apps and each school has different systems. It quickly turns into chaos. When remote learning began after Covid, I scoured the web for an app that could organize it all for me, but **there just isn't an app for that.**
 
 ### Instead of complaining, I went to work. SchoolListit is the result.
 
@@ -32,9 +34,6 @@ SchoolListit is a free and open platform for parents, teachers, and anyone in a 
 The possibilities are endless when you approach a problem from an entirely new angle. I built SchoolListIt considering education from outside the classroom and outside the boardroom SchoolListIt pairs react with WordPress. Because even though we may not know exactly what we need today, **I’d bet there’s a plugin for that**. 
 
 ## The Platform
-### Architecture
-<img src="https://github.com/megphillips91/schlistit/blob/master/Architecture-02.png" alt="schoolistit architecture" width="100%"/>
-
 ### A fresh approach
 
 I approached this problem from an entirely new angle beginning with only three constraints:
@@ -45,16 +44,18 @@ I approached this problem from an entirely new angle beginning with only three c
 Pairing React with WordPress, we've set up a toolchain for integrating existing tools and making room for new solutions. During a global pandemic, it is ideal for local developers to build local solutions for local problems. WordPress brings with it one of the largest developer communites in the world, and REACT can integrate easily with any REST API. These are the exact right tools to "bring it all together".
 
 **SchoolListIt is just the beginning, where can we go from here?**
+### Architecture
+<img src="https://github.com/megphillips91/schlistit/blob/master/Architecture-02.png" alt="schoolistit architecture" width="100%"/>
 
-### Roadmap of Core tools
+### Roadmap of Core Tools
 The integrated core tools are the backbone keeping the platform aligned including:
 - SchoolListIt App: 
 Front end user interface for parents, teachers, and students. 
-(demo live at SchoolListIt.com)
+(Demo live at SchoolListIt.com)
 
 - SchoolListIt REST API: 
 WordPress plugin that does the backend api work and serves data to the front end SchoolListIt Application. Free WordPress Plugin.
-(Plugin installed and working on SchoolListIt.com)
+(Plugin live on SchoolListIt.com)
 
 - SchoolListIt Website: SchoolListIt.com is the front-end of the WordPress site which runs the backend plugin. It is the marketing site for the platform.
 (Live at schoolListIt.com)
@@ -68,23 +69,18 @@ WordPress - to - Zoom integration WordPress Plugin.
 (In development - see repo)
 
 - SchoolListIt Channel Changer:
-Wordpress - Twilio integration. Streamlines communication for teachers and parents. Teachers can send one comunication and reach parents where they are on the channel most comfortable for communication. Premium WordPress Plugin.
-(In development - see repo)
+Wordpress - Twilio integration. Streamlines communication for teachers and parents. Teachers can send one comunication and reach parents where they are on the channel most comfortable for communication. Premium WordPress Plugin. This is a fork of other plugins I've built for marketing. I just neeed to pull it all together and rebrand.
+(See Repo for details)
 
-- SchoolListIt Premium Marketplace
-Fork of WooCommerce marketplace extension and including features of Charter Boat Bookings
+- SchoolListIt Tutor Marketplace
+Fork of my Premium Charter Boat Bookings plugin - I just need to rebrand it as a tutor instead of a boat ;). A woocommerce extension which works in tandem with a set of Gutenberg blocks. The tutor would host the plugin and woocommerce on his/her site and exposes a functioning booking calendar to the REST API.
 (See Repo for details)
 
 - SchoolListIt Transcripts:
-WordPress - Blockchain integration for testing and transcripts.
-(planned development)
+WordPress - Blockchain integration for transcripts and testing. 
+(looking for the right integration)
 
 
-
-
-
-
-- schools, teachers, classes can be created on the fly - nothing is private by design. *Think of SchoolListit as the bulletin board in the town square, where anyone can post and everyone can benefit.*
 
 
 
