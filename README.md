@@ -1,20 +1,25 @@
 # SchoolListIt
 
 ### Covid-19 has put education at all levels into a tailspin
-Many schools are not going back in a normal fashion this fall, many are using a blended remote/in person model, and some still have not finalized thier plans. Fully in-person attendance may not be sustainable if areas with continued outbreak. This creates a particularly tough challenge for many families including 
-- lower income students with no internet
-- students in rural areas with poor internet access (many of these also have no mobile coverage)
+Many schools are not going back in a normal fashion this fall, many are using a blended remote/in person model, and some still have not finalized thier plans. Fully in-person attendance may not be sustainable if areas with continued outbreak. Many families are uncomfortable sending thier children into such uncertainty, and are opting out of public school and into homeschooling. 
+
+This creates a particularly tough challenge for many families including 
+- students with fewer choices
+- lower income students with poor internet access 
+- students in rural areas with poor internet access (many with little or no mobile coverage)
 - dual income families
 - single parent families
 
-Parents need a solution that helps them keep thier students on track. 
+Parents need a solution that helps them keep thier students on track.
+
 Teachers need streamlined communications with families.
-Students need help from thier parents, grandparents, extended family, and friends.
 
-## SchoolListIt Makes That Possible no matter how you school
+Students need help staing on track from a wider sphere of support.
 
-It takes a village
-Even in a normal school setting, we cannot reduce the education gap without understanding a student’s extended family. In particular, single parent homes rely on a larger circle for help. However, only legal guardians have access to most student information systems. Our parents, friends, and neighbors cannot help if they cannot access what is due for schoolwork and when it is due.
+## SchoolListIt: what is due and when for any school, anywhere no matter how you school
+
+* It takes a village
+Even in a normal school setting, we cannot ensure education without understanding a student’s extended family. In particular, single parent homes rely on a larger circle for help. However, only legal guardians have access to most student information systems. Our parents, friends, and neighbors cannot help if they cannot access what is due for schoolwork and when it is due.
 Instead of complaining, I went to work. SchoolListit is the result.
 
 I am a working mom who built this solution out of necessity. I have two school aged children and a job and a baby - and now I have no daycare and no school for my children. I can’t hire a nanny or an in-home tutor willing to work in someone else’s home. The risk of contracting Covid-19 is too high. This is not only my reality. I share this reality with much of America.
