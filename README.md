@@ -66,15 +66,14 @@ The principle of this platform is to provide a set of core tools to address the 
 - **SchoolListIt AI:** WordPress <=> IBM Watson AI and ML integration.
 (In development - see repo)
 
-- **SchoolListIt Live Instruction:** WordPress <=> Zoom integration WordPress Plugin.
+- **SchoolListIt Live Instruction:** WooCommerce extension. Fork of Charter Boat Bookings Pro with integrated WordPress <=> Zoom integration.
 (In development - see repo)
 
 - **SchoolListIt Channel Changer:** Wordpress <=> Twilio integration. WordPress Plugin.
 Streamlines communication for teachers and parents. 
 (See Repo for details)
 
-- **SchoolListIt Tutor Marketplace** WooCommerce extension. Fork of Charter Boat Bookings Pro.
-(See Repo for details)
+- **SchoolListIt App Marketplace:** For clarity, I've included this here, but we will be using an existing Woocommerce Premium Extension which is maintained by Automattic to facilitate this marketplace. If we find need for additional features we can always customize it to our needs. 
 
 # The Big Win
 
