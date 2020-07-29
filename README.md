@@ -25,11 +25,11 @@ As a working mom and I built SchoolListIt out of necessity. I have two school ag
 
 Teachers rely on so many learning apps, but for a mom with multiple children that quickly compounds. Each child has multiple teachers using multiple 'Apps' and each school has different systems. This quickly turns into chaos. When remote learning began after Covid, I scoured the web for an 'App' that could organize it all for me, but **there just isn't an app for that.**  
 
-### Instead of complaining, I created SchoolListit.
+### Instead of complaining, I created [SchoolListit].(https://github.com/SchoolListit/SchoolListIt-App)
 
-SchoolListIt pulls it all together into one easily discernable format that parents, grandparents, and guardians from a wider variety of backgrounds can understand. Parents balancing work and life need 'at a glance' access to which school assignments are due and when - right on thier phones, organized by child, and checked off as complete - that is exactly what the SchoolListIt App does. 
+SchoolListIt pulls it all together into one easily discernable format that parents, grandparents, and guardians from a wider variety of backgrounds can understand. Parents balancing work and life need 'at a glance' access to which school assignments are due and when - right on thier phones, organized by child, and checked off as complete - that is exactly what the SchoolListIt App does. [*follow this link to the README on the SchoolListIt App*](https://github.com/SchoolListit/SchoolListIt-App)
 
-SchoolListit is currently a free and open platform for parents, teachers, and anyone in a student’s support network. Instead of reinventing what teachers and schools are likely to use, I chose to build a React App that can feed from any existing system's data via REST API, and consolidate diverse learning tools in one place. 
+SchoolListit is currently a free and open platform for parents, teachers, and anyone in a student’s support network. Instead of reinventing what teachers and schools are likely to use, SchoolListIt is a React App that can feed from any existing system's data via REST API, and programattically consolidate diverse learning tools in one place. 
 
 The possibilities are endless when you approach a problem from a new angle. I designed SchoolListIt considering education from outside the classroom and outside the boardroom. SchoolListIt pairs React with WordPress. Because even though we may not know exactly what we need today, **I’d bet there’s a plugin for that**. 
 
@@ -40,7 +40,7 @@ In other words the global open source developer community can rapidly create plu
 
 I approached this problem with only three constraints:
 - **Open Source:** the source code is made available for branching, forking, and modifying.
-- **Accesible:** careful attention to the user experience regardless of the user's physical or other challenges
+- **Accesible:** careful attention to the user experience regardless of the user's physical or situational challenges
 - **Extensible:** easily extended source code with well documented standards for adding features
 
 Pairing React with WordPress, we've set up a toolchain for integrating existing tools and making room for new solutions. During a global pandemic, it is ideal for local developers to build local solutions for local problems. WordPress brings with it one of the largest developer communites in the world, and REACT can integrate easily with any REST API. These are the tools that can **"bring it all together"** and provide a platform for rapid response to disruption in the education space.
