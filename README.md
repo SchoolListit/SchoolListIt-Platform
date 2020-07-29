@@ -80,7 +80,7 @@ WooCommerce extension. Fork of Charter Boat Bookings Pro.
 
 # The Big Win
 
-Even in normal school life, working parents have always struggled to help with schoolwork. SchoolListIt can give them a glimpse into the classroom they’ve just never had before, and with the largest community of developers in the world building into and outwardly from here, maybe Covid-19 can bring in an era of equal education.**
+Even in normal school life, working parents have always struggled to help with schoolwork. SchoolListIt can give them a glimpse into the classroom they’ve just never had before, and with the largest community of developers in the world building into and outwardly from here, **maybe Covid-19 can bring a new era of equal education.**
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
