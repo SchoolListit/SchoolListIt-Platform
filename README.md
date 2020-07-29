@@ -45,37 +45,33 @@ Pairing React with WordPress, we've set up a toolchain for integrating existing 
 
 ### Architecture
 <img src="https://github.com/megphillips91/schlistit/blob/master/Architecture-02.png" alt="schoolistit architecture" width="100%"/>
-__**this is just the beginning, where can we go from here?**__
 
 ### Roadmap of Core Tools
-The principle of this platform is to provide a set of core tools to address the central common problems, and then provide documentation and developer resources so that those core tools can be easily and rapidly extended into specific use cases as needed.  
+**this is just the beginning, where can we go from here?**
+The principle of this platform is to provide a set of core tools to address the central integrations, and then provide documentation and developer resources so that those core tools can be easily and rapidly extended into specific use cases as needed.  
 
-- SchoolListIt App: 
+- **SchoolListIt App:** 
+
 Front end user interface for parents, teachers, and students. 
 (Demo live at SchoolListIt.com)
 
-- SchoolListIt REST API: 
-WordPress plugin that does the backend api work and serves data to the front end SchoolListIt Application. Free WordPress Plugin.
+- **SchoolListIt REST API:** WordPress plugin that does the backend api work and serves data to the front end SchoolListIt Application. Free WordPress Plugin.
 (Plugin live on SchoolListIt.com)
 
-- SchoolListIt Website: SchoolListIt.com is the front-end of the WordPress site which runs the backend plugin. It is the marketing site for the platform.
+- **SchoolListIt Website:** SchoolListIt.com is the front-end of the WordPress site which runs the backend plugin. It is the marketing site for the platform.
 (Live at schoolListIt.com)
 
-- SchoolListIt AI: 
-WordPress <=> IBM Watson AI and ML integration.
+- **SchoolListIt AI:** WordPress <=> IBM Watson AI and ML integration.
 (In development - see repo)
 
-- SchoolListIt Live Instruction:
-WordPress <=> Zoom integration WordPress Plugin.
+- **SchoolListIt Live Instruction:** WordPress <=> Zoom integration WordPress Plugin.
 (In development - see repo)
 
-- SchoolListIt Channel Changer:
-Wordpress <=> Twilio integration. WordPress Plugin.
+- **SchoolListIt Channel Changer:** Wordpress <=> Twilio integration. WordPress Plugin.
 Streamlines communication for teachers and parents. 
 (See Repo for details)
 
-- SchoolListIt Tutor Marketplace
-WooCommerce extension. Fork of Charter Boat Bookings Pro.
+- **SchoolListIt Tutor Marketplace** WooCommerce extension. Fork of Charter Boat Bookings Pro.
 (See Repo for details)
 
 # The Big Win
