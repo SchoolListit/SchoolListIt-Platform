@@ -37,9 +37,9 @@ The possibilities are endless when you approach a problem from a new angle. I de
 ### A fresh approach
 
 I approached this problem with only three constraints:
-- Open Source: the source code is made available for branching, forking, and modifying.
-- Accesible: careful attention to the user experience regardless of the user's physical or other challenges
-- Extensible: easily extended source code with well documented standards for adding features
+- **Open Source:** the source code is made available for branching, forking, and modifying.
+- **Accesible:** careful attention to the user experience regardless of the user's physical or other challenges
+- **Extensible:** easily extended source code with well documented standards for adding features
 
 Pairing React with WordPress, we've set up a toolchain for integrating existing tools and making room for new solutions. During a global pandemic, it is ideal for local developers to build local solutions for local problems. WordPress brings with it one of the largest developer communites in the world, and REACT can integrate easily with any REST API. These are the exact right tools to **"bring it all together"**.
 
