@@ -25,7 +25,7 @@ As a working mom and I built SchoolListIt out of necessity. I have two school ag
 
 Teachers rely on so many learning apps, but for a mom with multiple children that quickly compounds. Each child has multiple teachers using multiple 'Apps' and each school has different systems. This quickly turns into chaos. When remote learning began after Covid, I scoured the web for an 'App' that could organize it all for me, but **there just isn't an app for that.**  
 
-### Instead of complaining, I created [SchoolListit].(https://github.com/SchoolListit/SchoolListIt-App)
+### Instead of complaining, I created [SchoolListit](https://github.com/SchoolListit/SchoolListIt-App).
 
 SchoolListIt pulls it all together into one easily discernable format that parents, grandparents, and guardians from a wider variety of backgrounds can understand. Parents balancing work and life need 'at a glance' access to which school assignments are due and when - right on thier phones, organized by child, and checked off as complete - that is exactly what the SchoolListIt App does. [*follow this link to the README on the SchoolListIt App*](https://github.com/SchoolListit/SchoolListIt-App)
 
