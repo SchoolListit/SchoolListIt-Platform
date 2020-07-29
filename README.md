@@ -21,28 +21,79 @@ Students need help staying on track with a wider sphere of support.
 
 I am a working mom and I built SchoolListIt out of necessity. I have two school aged children and a job and a baby. I work from home. The daycare has closed, and fear of the virus prevents me hiring in-home childcare. Even with all this, I still need to help my students stay on track with schoolwork. This is not only my reality. I share this reality with much of America. 
 
-Teachers rely on so many learning apps, but for a mom with multiple children that quickly compounds exponentially. Each child has multiple teachers with multiple apps and each school has different systems. It quickly becomes turns into chaos. When remote learning began after Covid, I scoured the web for an app that could organize it all for me, but **there just isn't an app for that.**
+Teachers rely on so many learning apps, but for a mom with multiple children that quickly compounds. Each child has multiple teachers with multiple apps and each school has different systems. It quickly becomes turns into chaos. When remote learning began after Covid, I scoured the web for an app that could organize it all for me, but **there just isn't an app for that.**
 
 ### Instead of complaining, I went to work. SchoolListit is the result.
 
-Even in normal school life, for most parents, getting enough detail to genuinely help with school means taking off work. When the choice lies between paying the rent and helping with schoolwork, the rent wins every time. 
-
-
-
-**SchoolListIt solves this problem.**
-
 SchoolListIt is all about including more people.  Now, more than ever - It really does take a village. 
 
-SchoolListit is a free and open platform for parents, teachers, and anyone in a student’s support sphere - schools, teachers, classes can be created on the fly - nothing is private by design. *Think of SchoolListit as the bulletin board in the town square, where anyone can post and everyone can benefit.*
+SchoolListit is a free and open platform for parents, teachers, and anyone in a student’s support sphere. Instead of reinventing what teachers and schools are likely to use, I chose to build a react app that can feed from any existing system's data via REST API. 
 
-Instead of reinventing what teachers and schools are likely to use, I chose to build a react app that can feed from any existing system's data via REST API. 
+The possibilities are endless when you approach a problem from an entirely new angle. I built SchoolListIt considering education from outside the classroom and outside the boardroom SchoolListIt pairs react with WordPress. Because even though we may not know exactly what we need today, **I’d bet there’s a plugin for that**. 
 
-The possibilities are endless when you approach a problem from an entirely new angle. I built SchoolListIt considering education from outside the classroom and outside the boardroom School-list-it pairs react with WordPress. Because even though we may not know exactly what we need today, **I’d bet there’s a plugin for that**. 
+## The Platform
+### Architecture
+<img src="https://github.com/megphillips91/schlistit/blob/master/Architecture-02.png" alt="schoolistit architecture" width="100%"/>
+
+### A fresh approach
+
+I approached this problem from an entirely new angle beginning with only three constraints:
+- Open Source
+- Accesible
+- Extensible
+
+Pairing React with WordPress, we've set up a toolchain for integrating existing tools and making room for new solutions. During a global pandemic, it is ideal for local developers to build local solutions for local problems. WordPress brings with it one of the largest developer communites in the world, and REACT can integrate easily with any REST API. These are the exact right tools to "bring it all together".
+
+**SchoolListIt is just the beginning, where can we go from here?**
+
+### Roadmap of Core tools
+The integrated core tools are the backbone keeping the platform aligned including:
+- SchoolListIt App: 
+Front end user interface for parents, teachers, and students. 
+(demo live at SchoolListIt.com)
+
+- SchoolListIt REST API: 
+WordPress plugin that does the backend api work and serves data to the front end SchoolListIt Application. Free WordPress Plugin.
+(Plugin installed and working on SchoolListIt.com)
+
+- SchoolListIt Website: SchoolListIt.com is the front-end of the WordPress site which runs the backend plugin. It is the marketing site for the platform.
+(Live at schoolListIt.com)
+
+- SchoolListIt AI: 
+WordPress - to - Watson AI and ML integration. WordPress Plugin.
+(In development - see repo)
+
+- SchoolListIt Live Instruction:
+WordPress - to - Zoom integration WordPress Plugin.
+(In development - see repo)
+
+- SchoolListIt Channel Changer:
+Wordpress - Twilio integration. Streamlines communication for teachers and parents. Teachers can send one comunication and reach parents where they are on the channel most comfortable for communication. Premium WordPress Plugin.
+(In development - see repo)
+
+- SchoolListIt Premium Marketplace
+Fork of WooCommerce marketplace extension and including features of Charter Boat Bookings
+(See Repo for details)
+
+- SchoolListIt Transcripts:
+WordPress - Blockchain integration for testing and transcripts.
+(planned development)
+
+
+
+
+
+
+- schools, teachers, classes can be created on the fly - nothing is private by design. *Think of SchoolListit as the bulletin board in the town square, where anyone can post and everyone can benefit.*
+
+
+
+
+
 
 Working parents have always struggled to help with schoolwork, but School-list-it can give them a glimpse into the classroom they’ve just never had before. 
 
 **Who knows, maybe Covid-19 can bring in an era of equal education.**
-
 
 SchoolListIt can facilitate equal education from outside the classroom during Covid-19 and after
 because SchoolListit assumes the most challenging circumstances and degrades gracefully providing a consistent and understandable user experience that doesn’t have to change even with shifting circumstances.
@@ -50,17 +101,6 @@ because SchoolListit assumes the most challenging circumstances and degrades gra
 In the worst connectivity scenario, our app can work offline and sync when connection is restored. We built the user experience for phones with an interface that mimics social media so that parents of all ages and aptitude can participate. 
 
 Through SchoolListIt, we can push the effectiveness of in-home schooling regardless of Covid-19 and emerge as a society with better tools and better data to provide an equal education regardless of the circumstances children are living. 
-
-**A fresh approach**
-
-We approached this problem from an entirely new angle - outside the classroom and outside the boardroom - and began with only three constraints:
-- Open Source
-- Accesible
-- Extensible
-
-By chooseing to pair React with WordPress, we've set up a toolchain for integrating existing tools and making room for new solutions. During a global pandemic, it is ideal for local developers to build local solutions for local problems.
-
-## SchoolListIt is just the beginning, where can we go from here
 
 
 
