@@ -36,19 +36,19 @@ The possibilities are endless when you approach a problem from an entirely new a
 ## The Platform
 ### A fresh approach
 
-I approached this problem from an entirely new angle beginning with only three constraints:
+I approached this problem with only three constraints:
 - Open Source
 - Accesible
 - Extensible
 
-Pairing React with WordPress, we've set up a toolchain for integrating existing tools and making room for new solutions. During a global pandemic, it is ideal for local developers to build local solutions for local problems. WordPress brings with it one of the largest developer communites in the world, and REACT can integrate easily with any REST API. These are the exact right tools to "bring it all together".
+Pairing React with WordPress, we've set up a toolchain for integrating existing tools and making room for new solutions. During a global pandemic, it is ideal for local developers to build local solutions for local problems. WordPress brings with it one of the largest developer communites in the world, and REACT can integrate easily with any REST API. These are the exact right tools to **"bring it all together"**.
 
-**SchoolListIt is just the beginning, where can we go from here?**
 ### Architecture
 <img src="https://github.com/megphillips91/schlistit/blob/master/Architecture-02.png" alt="schoolistit architecture" width="100%"/>
+__**this is just the beginning, where can we go from here?**__
 
 ### Roadmap of Core Tools
-The principle of this platform is to provide a set of core tools to address the central common problems, and then provide documentation and developer resources so that those core tools can be extended into specific use cases as needed.  
+The principle of this platform is to provide a set of core tools to address the central common problems, and then provide documentation and developer resources so that those core tools can be easily and rapidly extended into specific use cases as needed.  
 
 - SchoolListIt App: 
 Front end user interface for parents, teachers, and students. 
@@ -62,72 +62,27 @@ WordPress plugin that does the backend api work and serves data to the front end
 (Live at schoolListIt.com)
 
 - SchoolListIt AI: 
-WordPress - to - Watson AI and ML integration. WordPress Plugin.
+WordPress <=> IBM Watson AI and ML integration.
 (In development - see repo)
 
 - SchoolListIt Live Instruction:
-WordPress - to - Zoom integration WordPress Plugin.
+WordPress <=> Zoom integration WordPress Plugin.
 (In development - see repo)
 
 - SchoolListIt Channel Changer:
-Wordpress - Twilio integration. Streamlines communication for teachers and parents. Teachers can send one comunication and reach parents where they are on the channel most comfortable for communication. Premium WordPress Plugin. This is a fork of other plugins I've built for marketing. I just neeed to pull it all together and rebrand.
+Wordpress <=> Twilio integration. WordPress Plugin.
+Streamlines communication for teachers and parents. 
 (See Repo for details)
 
 - SchoolListIt Tutor Marketplace
-Fork of my Premium Charter Boat Bookings plugin - I just need to rebrand it as a tutor instead of a boat ;). A woocommerce extension which works in tandem with a set of Gutenberg blocks. The tutor would host the plugin and woocommerce on his/her site and exposes a functioning booking calendar to the REST API.
+WooCommerce extension. Fork of Charter Boat Bookings Pro.
 (See Repo for details)
 
-- SchoolListIt Transcripts:
-WordPress - Blockchain integration for transcripts and testing. 
-(looking for the right integration)
+# The Big Win
 
-
-
-
-
-
-
-
-Working parents have always struggled to help with schoolwork, but School-list-it can give them a glimpse into the classroom they’ve just never had before. 
+Even in normal school life, working parents have always struggled to help with schoolwork, but SchoolListIt can give them a glimpse into the classroom they’ve just never had before. With the largest community of developers in the world building into and outwardly from here, 
 
 **Who knows, maybe Covid-19 can bring in an era of equal education.**
-
-SchoolListIt can facilitate equal education from outside the classroom during Covid-19 and after
-because SchoolListit assumes the most challenging circumstances and degrades gracefully providing a consistent and understandable user experience that doesn’t have to change even with shifting circumstances.
-
-In the worst connectivity scenario, our app can work offline and sync when connection is restored. We built the user experience for phones with an interface that mimics social media so that parents of all ages and aptitude can participate. 
-
-Through SchoolListIt, we can push the effectiveness of in-home schooling regardless of Covid-19 and emerge as a society with better tools and better data to provide an equal education regardless of the circumstances children are living. 
-
-
-
-**It takes a village**
-
-Even in a normal school setting, we cannot ensure fair and equal education without including a student’s extended family and better understanding the challenges at home. In particular, single parent homes rely on a larger circle for help. However, only legal guardians have access to most student information systems. Our parents, friends, and neighbors cannot help if they cannot access what is due for schoolwork and when it is due.
-
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
