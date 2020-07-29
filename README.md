@@ -27,7 +27,7 @@ Teachers rely on so many learning apps, but for a mom with multiple children tha
 
 ### Instead of complaining, I went to work. SchoolListit is the result.
 
-SchoolListIt is all about including more people.  Now, more than ever - It really does take a village. 
+SchoolListIt is all about pulling it all togehter into one easily discernable format that parents, grandparents, and guardians from a wider variety of backgrounds can understand. 
 
 SchoolListit is a free and open platform for parents, teachers, and anyone in a student’s support sphere. Instead of reinventing what teachers and schools are likely to use, I chose to build a react app that can feed from any existing system's data via REST API. 
 
@@ -48,7 +48,8 @@ Pairing React with WordPress, we've set up a toolchain for integrating existing 
 <img src="https://github.com/megphillips91/schlistit/blob/master/Architecture-02.png" alt="schoolistit architecture" width="100%"/>
 
 ### Roadmap of Core Tools
-The integrated core tools are the backbone keeping the platform aligned including:
+The principle of this platform is to provide a set of core tools to address the central common problems, and then provide documentation and developer resources so that those core tools can be extended into specific use cases as needed.  
+
 - SchoolListIt App: 
 Front end user interface for parents, teachers, and students. 
 (Demo live at SchoolListIt.com)
