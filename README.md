@@ -82,7 +82,9 @@ Streamlines communication for teachers and parents.
 
 - **SchoolListIt App Marketplace:** For clarity, I've included this here, but we will use an existing Woocommerce Premium Extension maintained by Automattic to facilitate this marketplace. We can always customize it to our needs later if neccesary. 
 
-- **SchoolLIstIt Integrations Plugin:** Starting with Google Classroom, it is our plan to build api integration with existing systems so that assignments and due dates can be pulled from API as part of Teacher verification. The strategy to overcome this potential roadblocks in integration is simple - teachers will demand integration - eventually. As user adoption grows, any misinformation posted on SchoolListIt is going to cause a huge headache for teachers and schools. Just as businesses appareciate the oppotunity to manage thier Google Places profiles, teachers will find it very useful to integrate directly with SchoolListIt rather than having parents manually disseminating information throghout the community.
+- **SchoolLIstIt Integrations Plugin:** Starting with Google Classroom, it is our plan to build api integration with existing systems so that assignments and due dates can be pulled from API as part of Teacher verification. 
+
+The strategy to overcome this potential roadblocks to integration is simple - teachers will demand integration - eventually. As user adoption grows, any misinformation posted on SchoolListIt is going to cause a huge headache for teachers and schools. Just as businesses appareciate the opportunity to manage their Google Places profile, teachers will find it very useful to integrate directly with SchoolListIt rather than having parents manually disseminating information throughout the community.
 
 # The Big Win
 
