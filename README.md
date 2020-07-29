@@ -27,11 +27,13 @@ Teachers rely on so many learning apps, but for a mom with multiple children tha
 
 ### Instead of complaining, I created SchoolListit.
 
-SchoolListIt pulls it all together into one easily discernable format that parents, grandparents, and guardians from a wider variety of backgrounds can understand. 
+SchoolListIt pulls it all together into one easily discernable format that parents, grandparents, and guardians from a wider variety of backgrounds can understand. Parents balancing work and life need 'at a glance' access to which school assignments are due and when - right on thier phones, organized by child, and checked off as complete - that is exactly what the SchoolListIt App does. 
 
 SchoolListit is currently a free and open platform for parents, teachers, and anyone in a student’s support network. Instead of reinventing what teachers and schools are likely to use, I chose to build a React App that can feed from any existing system's data via REST API, and consolidate diverse learning tools in one place. 
 
-The possibilities are endless when you approach a problem from a new angle. I designed SchoolListIt considering education from outside the classroom and outside the boardroom. SchoolListIt pairs React with WordPress. Because even though we may not know exactly what we need today, **I’d bet there’s a plugin for that**. In other words, Open Source Developers Worldwide, can create future plugins to meet unknown future needs as apposed to School Systems limiting themselves by opting for Private Closed Source Proprietary Solutions, then constantly beholding to a For Profit Company for the Rules of Engagement.   
+The possibilities are endless when you approach a problem from a new angle. I designed SchoolListIt considering education from outside the classroom and outside the boardroom. SchoolListIt pairs React with WordPress. Because even though we may not know exactly what we need today, **I’d bet there’s a plugin for that**. 
+
+In other words the global open source developer community can rapidly create plugins, npm packages, and add ons to more rapidly and more cost effectively meet unexpected future needs of school systems. Private closed source proprietary solutions can never move as fast as a motivated open source community, and Covid-19 has shown us just how important is it for school systems to prepare for the unexpected. As an industry, we owe it to our children to facilitate and stimulate rapid development in this area lest we risk leaving children behind - And that is unacceptable.
 
 ## The Platform
 ### A fresh approach
@@ -41,13 +43,16 @@ I approached this problem with only three constraints:
 - **Accesible:** careful attention to the user experience regardless of the user's physical or other challenges
 - **Extensible:** easily extended source code with well documented standards for adding features
 
-Pairing React with WordPress, we've set up a toolchain for integrating existing tools and making room for new solutions. During a global pandemic, it is ideal for local developers to build local solutions for local problems. WordPress brings with it one of the largest developer communites in the world, and REACT can integrate easily with any REST API. These are the exact right tools to **"bring it all together"**.
+Pairing React with WordPress, we've set up a toolchain for integrating existing tools and making room for new solutions. During a global pandemic, it is ideal for local developers to build local solutions for local problems. WordPress brings with it one of the largest developer communites in the world, and REACT can integrate easily with any REST API. These are the tools that can **"bring it all together"** and provide a platform for rapid response to disruption in the education space.
 
 ### Architecture
 <img src="https://github.com/megphillips91/schlistit/blob/master/Architecture-02.png" alt="schoolistit architecture" width="100%"/>
 
 **Existing School Websites**
 Many schools already have WordPress websites. The system is designed with the consideration of using these existing websites as a "distributed backend" (i.e. each schools WordPress website would serve the data) This is a way that we naturally impart performance, scalability, and security into the front end user experience. 
+
+**Existing School Systems**
+Google Classroom: the googleapis provides api access to all the data needed for the SchoolListIt app. Each GSuite for Ed would need to grant api permissions to SchoolListit.
 
 ### Roadmap of Core Tools
 **This is just the beginning, where can we go from here?**
@@ -74,6 +79,8 @@ Streamlines communication for teachers and parents.
 (See Repo for details)
 
 - **SchoolListIt App Marketplace:** For clarity, I've included this here, but we will be using an existing Woocommerce Premium Extension which is maintained by Automattic to facilitate this marketplace. If we find need for additional features we can always customize it to our needs. 
+
+- **SchoolLIstIt Integrations Plugin:** Starting with Google Classroom, it is our plan to build api integration with existing systems so that assignments and due dates can be pulled from API as part of Teacher verification. There are other systems which also use REST API including the seven Blackboard Bundled apps, and while these REST API exist, we would need permission to access before programmatic integration is possible. The strategy to overcome this potential roadblock is simple - teachers will demand integration - even
 
 # The Big Win
 
