@@ -46,9 +46,12 @@ Pairing React with WordPress, we've set up a toolchain for integrating existing 
 ### Architecture
 <img src="https://github.com/megphillips91/schlistit/blob/master/Architecture-02.png" alt="schoolistit architecture" width="100%"/>
 
+**Existing School Websites**
+Many schools already have WordPress websites. The system is designed with a the consideration of using these existing websites as a "distributed backend" (i.e. each schools WordPress website would serve the data) This is a way that we naturally impart performance, scalability, and security into the front end user experience. 
+
 ### Roadmap of Core Tools
 **this is just the beginning, where can we go from here?**
-The principle of this platform is to provide a set of core tools to address the central integrations, and then provide documentation and developer resources so that those core tools can be easily and rapidly extended into specific use cases as needed.  
+The principle of this platform is to provide a set of core tools to address the central integrations, and then provide documentation and developer resources so that those core tools can be easily and rapidly extended into specific use cases as needed. Many school websites worldwide are already built on WordPress.
 
 - **SchoolListIt App:** Front end user interface for parents, teachers, and students. 
 (Demo live at SchoolListIt.com)
