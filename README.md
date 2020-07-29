@@ -84,7 +84,9 @@ Streamlines communication for teachers and parents.
 
 - [**SchoolLIstIt Integrations:**](https://github.com/SchoolListit/SchoolListIt-Integrations) Starting with Google Classroom, it is our plan to build api integration with existing systems so that assignments and due dates can be pulled from API as part of Teacher verification. 
 
-The strategy to overcome potential roadblocks to integration is simple. As user adoption grows, any misinformation posted on SchoolListIt is going to cause a huge headache for teachers and schools. Just as businesses appreciate the opportunity to manage their Google Places profile, teachers will find it very useful to integrate directly with SchoolListIt rather than having parents manually disseminating information throughout the community.
+**Overcoming Integration Roadblocks**
+
+The strategy to overcome potential roadblocks to integration is simple. As user adoption grows, any misinformation posted on SchoolListIt is going to cause a huge headache for teachers and schools. Just as businesses appreciate the opportunity to manage their Google Places profile, teachers will find it very useful to integrate directly with SchoolListIt rather than having parents manually disseminating information throughout the community. Imagine crowd sourced school assignment information, posts, comments, and Q&A. As soon as we gain traction and significant user adoption, schools will want to integrate.
 
 # The Big Win
 
