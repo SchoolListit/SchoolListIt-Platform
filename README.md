@@ -23,9 +23,9 @@ Families new to Homeschooling need mentoring, attendance, testing, and transcrip
 
 ### No matter how you school
 
-As a working mom and I built SchoolListIt out of necessity. I have two school aged children, a job, and a baby. Like many now, I work from home. Daycare is either closed or not feasible, and fear of the virus prevents hiring in-home childcare. Successfully keeping my students on track with schoolwork is overwhelming. Maintaining and improving Education in this new Reality is of utmost importance. 
+As a working mom, I built SchoolListIt out of necessity. I have two school aged children, a job, and a toddler. Like many others since Covid-19, I work from home. Daycare is either closed or not feasible, and fear of the virus prevents hiring in-home childcare. Successfully keeping my students on track with schoolwork has become full time, and its confusing and frustrating. Maintaining and improving education in this new reality is of utmost importance. Not just for families like mine, but even more so for single parent families.
 
-Teachers rely on so many learning apps, but for a mom with multiple children that quickly compounds. Each child has multiple teachers using multiple 'Apps' and each school has different systems. This quickly turns into chaos. When remote learning began after Covid, I scoured the web for an 'App' that could organize it all for me, but **there just isn't an app for that.**  
+Teachers rely on so many learning apps, but for a mom with multiple children that quickly compounds. Each child has multiple teachers using multiple 'Apps' and each school has different systems. Many school districts have 'banded' grades so each child goes to a different school. This quickly turns into chaos. When remote learning began after Covid, I scoured the web for an App that could organize the chaos, but **there is not an app for that.**  
 
 ### Instead of complaining, I created [SchoolListit](https://github.com/SchoolListit/SchoolListIt-App).
 
