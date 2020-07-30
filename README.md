@@ -40,7 +40,7 @@ SchoolListit is a free and open web application for parents, teachers, and anyon
 ## The SchoolListIt Platform
 The SchoolListit platform is much more than just one application. The possibilities are endless when you approach a problem from a new angle. I designed SchoolListIt considering education from outside the classroom and outside the boardroom. SchoolListIt pairs React with WordPress because even though we may not know exactly what we need today, **I’d bet there’s a plugin for that**. 
 
-In other words the global open source developer community can create plugins, npm packages, and add ons to rapidly and cost effectively meet unexpected future needs of school systems. Private closed source proprietary solutions can never move as fast as a motivated open source community, and Covid-19 has shown us just how important is it for school systems to prepare for the unexpected. As an industry, we owe it to our children to facilitate and stimulate rapid development in this area lest we risk leaving children behind - **and that is unacceptable.**
+In other words the global open source developer community can create plugins, npm packages, and add ons to rapidly and cost effectively meet the unexpected future needs of school systems. Private closed source proprietary solutions can never move as fast as a motivated open source community, and Covid-19 has shown us just how important is it for school systems to prepare for the unexpected. As an industry, we owe it to our children to facilitate and stimulate rapid development in this area lest we risk leaving children behind - **and that is unacceptable.**
 
 ### A fresh approach
 
@@ -55,10 +55,10 @@ Pairing React with WordPress, we've set up a toolchain for integrating existing 
 <img src="https://github.com/megphillips91/schlistit/blob/master/Architecture-02.png" alt="schoolistit architecture" width="100%"/>
 
 **Existing School Websites**
-Many schools already have WordPress websites. The system is designed to include these existing websites as a "distributed backend" (i.e. each schools WordPress website would serve the data). In this way, we naturally impart performance, scalability, and security into the SchoolListIt App. 
+Many schools already have WordPress websites. The system is designed to include these existing websites as a "distributed backend" (i.e. each school's WordPress website could serve data). In this way, we naturally impart performance, scalability, and security into the SchoolListIt App. 
 
 **Existing School Systems**
-Google Classroom and the Blackboard suite maintain REST APis, but both would need to grant api permissions to SchoolListit. Google has an existing and open api for this purpose and schools can easily grant permissions. I am not clear on whether Blackboard makes its REST API available to 3rd party solutions.
+Google Classroom and the Blackboard suite maintain REST APis. Google has an existing and open api for this purpose and schools can easily grant access. I am not clear on whether Blackboard makes its REST API available to 3rd party solutions.
 
 ### Roadmap of Core Tools
 **This is just the beginning, where can we go from here?**
@@ -74,19 +74,18 @@ The SchoolListIt platform provides a set of **core tools** that address central 
 - [**SchoolListIt Website:**](https://schoolistit.com/) SchoolListIt.com is the front-end of the WordPress site which runs the backend plugin. It is the marketing site for the platform.
 (Live at schoolListIt.com)
 
-- [**SchoolListIt AI:**](https://github.com/SchoolListit/SchoolListIt-AI) WordPress <=> IBM Watson AI and ML integration.
+- [**SchoolListIt AI:**](https://github.com/SchoolListit/SchoolListIt-AI) WordPress <=> IBM Watson AI and ML integration. It reads aloud to students.
 (In development - see repo)
 
-- [**SchoolListIt Live Instruction:**](https://github.com/SchoolListit/SchoolListIt-Live-Instruction) WooCommerce extension for pairing tutors with student and/or student groups. Fork of Charter Boat Bookings Pro with integrated WordPress <=> Zoom integration.
-(In development - see repo)
+- **SchoolListIt Live Instruction:** WooCommerce extension for pairing tutors with student and/or student groups. Fork of Charter Boat Bookings Pro with integrated WordPress <=> Zoom integration. *This is not fresh code so I have not linked to that from here. Please dont disqualify me. I just want to give a whole picture of the roadmap...and how quickly this can come together.*
 
 - [**SchoolListIt Channel Changer:**](https://github.com/SchoolListit/SchoolListIt-Channel-Changer) Wordpress <=> Twilio integration. WordPress Plugin.
 Streamlines communication for teachers and parents. 
-(See Repo for details)
+(In development - See Repo for details)
 
 - **SchoolListIt App Marketplace:** For clarity, I've included this here, but we will use an existing Woocommerce Premium Extension maintained by Automattic to facilitate this marketplace. We can always customize it to our needs later if neccesary. 
 
-- [**SchoolLIstIt Integrations:**](https://github.com/SchoolListit/SchoolListIt-Integrations) Starting with Google Classroom, it is our plan to build api integration with existing systems so that assignments and due dates can be pulled from API as part of Teacher verification. 
+- **SchoolLIstIt Integrations:** Starting with Google Classroom, it is our plan to build api integration with existing systems so that assignments and due dates can be pulled from API as part of Teacher verification.
 
 **Overcoming Integration Roadblocks**
 
