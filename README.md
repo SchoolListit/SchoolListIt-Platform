@@ -23,7 +23,7 @@ Families new to Homeschooling need mentoring, attendance, testing, and transcrip
 
 ### No matter how you school
 
-As a working mom, I built SchoolListIt out of necessity. I have two school aged children, a job, and a toddler. Like many others since Covid-19, I work from home. Daycare is either closed or not feasible, and fear of the virus prevents hiring in-home childcare. Successfully keeping my students on track with schoolwork has become full time, and its confusing and frustrating. Not just for families like mine, but even more for single parent families.
+As a working mom, I built SchoolListIt out of necessity. I have two school aged children, a job, and a toddler. Like many others since Covid-19, I work from home. Daycare is either closed or not feasible, and fear of the virus prevents hiring in-home childcare. Successfully keeping my students on track with schoolwork became full time. It is confusing and frustrating for families like mine, but nearly impossible for single parent families.
 
 Teachers rely on many learning apps, but for a mom with multiple children that quickly compounds. Each child has multiple teachers using multiple 'Apps' and each school has different systems and methods of communication. Many school districts have 'banded' grades so each child goes to a different school. This quickly turns into chaos. 
 
