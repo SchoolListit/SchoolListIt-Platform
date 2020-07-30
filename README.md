@@ -31,7 +31,7 @@ Teachers rely on so many learning apps, but for a mom with multiple children tha
 
 SchoolListIt pulls it all together into one easily discernable format that parents, grandparents, and guardians from a wider variety of backgrounds can understand. Whether fully in school, fully remote, blended, or homeschool - parents balancing work and life need 'at a glance' access to which school assignments are due and when - right on thier phones, organized by child, and checked off as complete - that is exactly what the SchoolListIt App does. 
 
-SchoolListit is a free and open web application for parents, teachers, and anyone in a student’s support network. Instead of reinventing what teachers and schools are likely to use, SchoolListIt is a React App that can feed from any existing system's data via REST API, and programattically consolidate diverse learning tools in one place. It can **work offline** and offers a familiar user interface that mimics popular social media platforms that parents and grandparents are already accustomed to using. 
+SchoolListit is a free and open web application for parents, teachers, and anyone in a student’s support network. Instead of reinventing what teachers and schools are likely to use, **SchoolListIt is a React App** that can feed from any existing system's data via REST API, and programattically consolidate diverse learning tools in one place. It can **work offline** and **mimics a social media platform** so parents and grandparents are already accustomed to the navigation and features. 
 
 [*follow this link to the README on the SchoolListIt App*](https://github.com/SchoolListit/SchoolListIt-App)
 
