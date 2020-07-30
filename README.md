@@ -16,10 +16,10 @@ Teachers need streamlined communications with families.
 
 Students need help staying on track with a wider sphere of support.
 
-Families new to Homeschooling need attendance, testing, and transcripts.
+Families new to Homeschooling need mentoring, attendance, testing, and transcripts.
 
 ## SchoolListIt
-### What (School Assignments) are due and when, for any school, anywhere, no matter how you school
+### what schoolwork is due and when, for any school, anywhere, no matter how you school
 
 As a working mom and I built SchoolListIt out of necessity. I have two school aged children, a job, and a baby. Like many now, I work from home. Daycare is either closed or not feasible, and fear of the virus prevents hiring in-home childcare. Successfully keeping my students on track with schoolwork is overwhelming. Maintaining and improving Education in this new Reality is of utmost importance. 
 
