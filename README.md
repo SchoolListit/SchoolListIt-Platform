@@ -52,7 +52,7 @@ I approached this problem with only three constraints:
 Pairing React with WordPress, we've set up a toolchain for integrating existing tools and making room for new solutions. During a global pandemic, it is ideal for local developers to build local solutions for local problems. WordPress brings with it one of the largest developer communites in the world, and REACT can integrate easily with any REST API. These are the tools that can **"bring it all together"** and provide a platform for rapid response to disruption in the education space.
 
 ### Roadmap
-<img src="" width="100%"/>
+<img src="https://github.com/SchoolListit/SchoolListIt-Platform/blob/master/Roadmap.png" width="100%"/>
 
 **Existing School Websites**
 Many schools already have WordPress websites. The system is designed to include these existing websites as a "distributed backend" (i.e. each school's WordPress website could serve data). In this way, we naturally impart performance, scalability, and security into the SchoolListIt App. 
