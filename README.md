@@ -1,5 +1,7 @@
 # SchoolListIt
 
+(https://youtu.be/J5X4Rf9wys0)
+
 ### Covid-19 has education at all levels in a tailspin
 Many schools are not going back in a normal this fall, many are using a blended remote/in person model, and some still have not finalized thier plans. Fully in-person attendance may not be sustainable in areas with continued outbreak. Many families are uncomfortable sending thier children into such uncertainty, and are opting out of public school and into homeschooling. 
 
