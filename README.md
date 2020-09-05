@@ -40,6 +40,7 @@ SchoolListit is a free and open web application for parents, teachers, and anyon
 [*follow this link to the README on the SchoolListIt App*](https://github.com/SchoolListit/SchoolListIt-App)
 
 ## The SchoolListIt Platform
+<img src="https://github.com/SchoolListit/SchoolListIt-App/blob/master/Architecture-02.png" width="100%"/>
 The SchoolListit platform is much more than just one application. The possibilities are endless when you approach a problem from a new angle. I designed SchoolListIt considering education from outside the classroom and outside the boardroom. SchoolListIt pairs React with WordPress because even though we may not know exactly what we need today, **I’d bet there’s a plugin for that**. 
 
 In other words the global open source developer community can create plugins, npm packages, and add ons to rapidly and cost effectively meet the unexpected future needs of school systems. Private closed source proprietary solutions can never move as fast as a motivated open source community, and Covid-19 has shown us just how important is it for school systems to prepare for the unexpected. As an industry, we owe it to our children to facilitate and stimulate rapid development in this area lest we risk leaving children behind - **and that is unacceptable.**
