@@ -1,5 +1,5 @@
 # SchoolListIt
-[![SchoolListIt Platform]({https://github.com/SchoolListit/SchoolListIt-Platform/blob/master/ToolChain.png})](https://www.youtube.com/watch?v=J5X4Rf9wys0)
+[![SchoolListIt Platform](https://github.com/SchoolListit/SchoolListIt-Platform/blob/master/ToolChain.png)](https://www.youtube.com/watch?v=J5X4Rf9wys0)
 
 
 (https://youtu.be/J5X4Rf9wys0)
