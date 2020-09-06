@@ -82,7 +82,10 @@ The SchoolListIt platform provides a set of **core tools** that address central 
 - [**SchoolListIt AI:**](https://github.com/SchoolListit/SchoolListIt-AI) WordPress <=> IBM Watson AI and ML integration. It reads aloud to students.
 (In development - see repo)
 
-- **SchoolListIt Live Instruction:** WooCommerce extension for pairing tutors with student and/or student groups. Fork of Charter Boat Bookings Pro with integrated WordPress <=> Zoom integration. *This is not fresh code so I have not linked to that from here. Please dont disqualify me. I just want to give a whole picture of the roadmap...and how quickly this can come together.*
+- [**SchoolListIt Transcripts:**](https://github.com/SchoolListit/SchoolListIt-Transcripts) WordPress Plugin purpose built to maintain student transcripts secured with blockchain. Please follow the link to the ReadMe.  
+(In development - see repo)
+
+- **SchoolListIt Live Instruction:** WooCommerce extension for pairing tutors with student and/or student groups. Fork of Charter Boat Bookings Pro with integrated WordPress <=> Zoom integration. *This is not fresh code so I have not linked to that from here. Please dont disqualify me. I just want to give a whole picture of the roadmap...and how quickly this can come together.* 
 
 - [**SchoolListIt Channel Changer:**](https://github.com/SchoolListit/SchoolListIt-Channel-Changer) Wordpress <=> Twilio integration. WordPress Plugin.
 Streamlines communication for teachers and parents. 
@@ -107,6 +110,22 @@ Depending on your hosting, you may need to manage other records such as an .htac
 Even in normal school life, working parents have always struggled to help with schoolwork. SchoolListIt can give them a glimpse into the classroom they’ve just never had before, and with the largest community of developers in the world building into and outwardly from here -- 
 
 ## Together we can bring a new era of equal education. ##
+
+# Monetization Strategies
+Since there are different user scopes within SchoolListit, we consider monetization strategies on several levels. 
+- School Administration
+- Teachers
+- Parents
+Within each of these three user scopes, we follow the same monetization strategy and approved ecosystem developers can publish premium plugins for each user scope. The key strategy lies within how we implement the "premium" features. After careful consideration, it becomes clear that premium features are best serviced inside of a WP Admin Dashboard. 
+
+### Here is how that will work:
+SchoolListit App will offer these premium features within the proper user scope. A user can initiate a premium account by requesting access to any of the premium features at which time a few things will happen:
+1. User will be redirected to SchoolListit.com with a few url parameters
+2. SchoolListit.com will add the product to the cart and redirect the user to the checkout page
+3. If the user does not already have a SchoolListIt WordPress Website on record, a cloud instance of WP will be instantiated with the SchoolListit Core stack of Theme + plugins.
+4. Once created, the premium plugin will be installed, activated, and the license key will be stored within the wp_options table and the premum plugin will be activated programatically. 
+5. User will be redirected to the premium plugin admin menu and placed on the "how to" page which will have a video welcoming the user to thier new SchoolListit website and showing them how to use the new feature they purchased. 
+6. The suite of plugins will be scoped from the core plugins as "add ons" which require the suite of core plugins to function. 
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
