@@ -96,6 +96,10 @@ Streamlines communication for teachers and parents.
 
 The strategy to overcome potential roadblocks to integration is simple. As user adoption grows, any misinformation posted on SchoolListIt is going to cause a huge headache for teachers and schools. Just as businesses appreciate the opportunity to manage their Google Places profile, teachers will find it very useful to integrate directly with SchoolListIt rather than having parents manually disseminating information throughout the community. Imagine crowd sourced school assignment information, posts, comments, and Q&A. As soon as we gain traction and significant user adoption, schools will want to integrate.
 
+**Self Hosting**
+
+NOTE: SchoolListit can be used either as part of the SchoolListit.com community or by selfhosting. If you choose to selfhost, you will need to host a WordPress Site on your maindomain. Then, set up a subdomain for the React App. Depending on your hosting, you may need to manage other records such as an .htaccess file to redirect for the router to work properly and you will need to go into the react app and change the endpoints to your top level domain istead of schoollistit.com. If you are implementing, please feel free to reach out to megphillips91 with questions
+
 # The Big Win
 
 Even in normal school life, working parents have always struggled to help with schoolwork. SchoolListIt can give them a glimpse into the classroom they’ve just never had before, and with the largest community of developers in the world building into and outwardly from here -- 
@@ -104,5 +108,3 @@ Even in normal school life, working parents have always struggled to help with s
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-*NOTE: SchoolListit can be used either as part of the SchoolListit.com community or by selfhosting. If you choose to selfhost, you will need to host a WordPress Site on your maindomain. Then, set up a subdomain for the React App. Depending on your hosting, you may need to manage other records such as an .htaccess file to redirect for the router to work properly and you will need to go into the react app and change the endpoints to your top level domain istead of schoollistit.com. If you are implementing, please feel free to reach out to megphillips91 with questions*
