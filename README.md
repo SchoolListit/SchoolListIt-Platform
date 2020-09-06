@@ -128,7 +128,9 @@ SchoolListit App will offer these premium features within the proper user scope.
 5. User will be redirected to thier new website, logged in, and landed on /wp-admin/premium-plugin/how-to and shown a video welcoming the user to thier new SchoolListit website and showing them how to use the new feature they purchased. 
 6. The suite of plugins will be stacked on top of the core plugins as "add ons" which require the suite of core plugins to function. 
 
-This process does several things all at the same time which optimize user experience, but the core gain is a scalable way to grow with SchoolListit. rather than introducing a user to a deep and sophisticated learning management system, this allows us to scale with the user at thier pace. This is essential with user training, and a key success strategy. Too many features are overwhelming - great - but overwhelming. Really people just need the one thing they need - until they need the next. With this strategy, we follow the user's lead growing at a manageable and natural pace. 
+This process does several things all at the same time which optimize user experience, but the core gain is a scalable way to grow with SchoolListit. Rather than introducing a user to a deep and sophisticated learning management system, this allows us to scale with the user at thier pace. 
+
+This is essential with user training, and a key success strategy. Too many features are overwhelming - great - but overwhelming. Really people just need the one thing they need - until they need the next. With this strategy, we follow the user's lead growing our relationship at a manageable and natural pace. 
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
