@@ -104,3 +104,5 @@ Even in normal school life, working parents have always struggled to help with s
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+*NOTE: SchoolListit can be used either as part of the SchoolListit.com community or by selfhosting. If you choose to selfhost, you will need to host a WordPress Site on your maindomain. Then, set up a subdomain for the React App. Depending on your hosting, you may need to manage other records such as an .htaccess file to redirect for the router to work properly and you will need to go into the react app and change the endpoints to your top level domain istead of schoollistit.com. If you are implementing, please feel free to reach out to megphillips91 with questions*
