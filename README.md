@@ -123,10 +123,12 @@ Within each of the user scopes, we follow the same monetization strategy and app
 SchoolListit App will offer these premium features within the proper user scope. A user can initiate a premium account by requesting access to any of the premium features at which time a few things will happen:
 1. User will be offered a selection of domains, and will be redirected to SchoolListit.com with a few url parameters
 2. SchoolListit.com will add the product to the cart and redirect the user to the checkout page
-3. If the user does not already have a SchoolListIt Website on record, a cloud instance of WP will be instantiated with the SchoolListit Core stack of Theme + plugins using the domain selected.
+3. If the user does not already have a SchoolListIt Website on record, a cloud instance of WP will be instantiated with the SchoolListit Core stack of theme + plugins using the domain selected.
 4. Once created, the premium plugin will be installed, activated, and the license key will be stored within the wp_options table and the premum plugin will be activated programatically. 
-5. User will be redirected to the premium plugin admin menu and placed on the "how to" page which will have a video welcoming the user to thier new SchoolListit website and showing them how to use the new feature they purchased. 
+5. User will be redirected to thier new website, logged in, and landed on /wp-admin/premium-plugin/how-to and shown a video welcoming the user to thier new SchoolListit website and showing them how to use the new feature they purchased. 
 6. The suite of plugins will be stacked on top of the core plugins as "add ons" which require the suite of core plugins to function. 
+
+This process does several things all at the same time which optimize user experience, but the core gain is a scalable way to grow with SchoolListit. rather than introducing a user to a deep and sophisticated learning management system, this allows us to scale with the user at thier pace. This is essential with user training, and a key success strategy. Too many features are overwhelming - great - but overwhelming. Really people just need the one thing they need - until they need the next. With this strategy, we follow the user's lead growing at a manageable and natural pace. 
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
