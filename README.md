@@ -116,16 +116,17 @@ Since there are different user scopes within SchoolListit, we consider monetizat
 - School Administration
 - Teachers
 - Parents
-Within each of these three user scopes, we follow the same monetization strategy and approved ecosystem developers can publish premium plugins for each user scope. The key strategy lies within how we implement the "premium" features. After careful consideration, it becomes clear that premium features are best serviced inside of a WP Admin Dashboard. 
+
+Within each of the user scopes, we follow the same monetization strategy and approved ecosystem developers can publish premium plugins for each user scope. The key strategy lies within how we implement the "premium" features. After careful consideration, it becomes clear that premium features are best serviced inside of a instance of a customized and very limited version of the WP Admin Dashboard. This can be easily accomplished by creating a custom user role and capabilities for each of the three user types. 
 
 ### Here is how that will work:
 SchoolListit App will offer these premium features within the proper user scope. A user can initiate a premium account by requesting access to any of the premium features at which time a few things will happen:
-1. User will be redirected to SchoolListit.com with a few url parameters
+1. User will be offered a selection of domains, and will be redirected to SchoolListit.com with a few url parameters
 2. SchoolListit.com will add the product to the cart and redirect the user to the checkout page
-3. If the user does not already have a SchoolListIt WordPress Website on record, a cloud instance of WP will be instantiated with the SchoolListit Core stack of Theme + plugins.
+3. If the user does not already have a SchoolListIt Website on record, a cloud instance of WP will be instantiated with the SchoolListit Core stack of Theme + plugins using the domain selected.
 4. Once created, the premium plugin will be installed, activated, and the license key will be stored within the wp_options table and the premum plugin will be activated programatically. 
 5. User will be redirected to the premium plugin admin menu and placed on the "how to" page which will have a video welcoming the user to thier new SchoolListit website and showing them how to use the new feature they purchased. 
-6. The suite of plugins will be scoped from the core plugins as "add ons" which require the suite of core plugins to function. 
+6. The suite of plugins will be stacked on top of the core plugins as "add ons" which require the suite of core plugins to function. 
 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
